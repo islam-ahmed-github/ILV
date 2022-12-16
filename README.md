@@ -13,5 +13,5 @@ NONE.
 
 
 # **USAGE**
-1- use `IL16V_x` and `IL32V_x` functions to build ILV frames, and to get different field from ILV frames
+1- use `IL16V_x` and `IL32V_x` functions to build ILV frames, and to get different fields from ILV frames.
 
